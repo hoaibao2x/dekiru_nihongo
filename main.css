@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html body {
+    background: #1f2028;
+    color: #dcdfec;
+}
+
+html body a {
+    text-decoration: none;
+    color: #1f2028;
+}
+
+.main_row .card {
+    margin-top: 50%;
+}
+
+/* Font style */
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.merriweather-bold {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.merriweather-light-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.merriweather-regular-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.merriweather-bold-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: italic;
+}
+/* End font style */
+
+/* Character style */
+.jp_chars_red {
+    color: #993300;
+}
+
+.jp_chars_green {
+    color: rgb(0, 116, 115);
+}
+
+.vn_chars_blue {
+    color: #0b5394;
+}
