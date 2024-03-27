@@ -68,3 +68,26 @@ html body a {
 .vn_chars_blue {
     color: #0b5394;
 }
+
+.jp_exp span {
+    display: block;
+}
+
+.chars_remove {
+    text-decoration: line-through;
+}
+
+.grammar_warning {
+    border: 1px solid;
+    border-radius: 8px;
+    border-color: red;
+    padding: 4px;
+}
+
+/* .grammar_content {
+
+} */
+
+/* .grammar_mean {
+
+} */
