@@ -99,10 +99,17 @@ body main .grammar_card_res {
     width: 25%;
 }
 
+body main .grammar_card_detail_res {
+    width: 50%;
+}
+
 @media (max-width: 1080px) {
     body main .grammar_card_res {
         width: 75%;
-        color: red;
+    }
+
+    body main .grammar_card_detail_res {
+        width: 100%;
     }
 }
 
