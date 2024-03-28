@@ -91,3 +91,19 @@ html body a {
 /* .grammar_mean {
 
 } */
+
+/* Responsive */
+
+/* Default */
+body main .grammar_card_res {
+    width: 25%;
+}
+
+@media (max-width: 1080px) {
+    body main .grammar_card_res {
+        width: 100%;
+        color: red;
+    }
+}
+
+/* End responsive */
