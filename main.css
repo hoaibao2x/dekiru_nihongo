@@ -100,7 +100,7 @@ body main .grammar_card_res {
 }
 
 body main .grammar_card_detail_res {
-    width: 50%;
+    width: 85%;
 }
 
 @media (max-width: 1080px) {
