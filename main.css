@@ -84,13 +84,11 @@ html body a {
     padding: 4px;
 }
 
-/* .grammar_content {
-
-} */
-
-/* .grammar_mean {
-
-} */
+/* Overwrite Bootstrap style */
+#myLessonCustom .accordion-item button {
+    display: inline-block;
+    text-align: center;
+}
 
 /* Responsive */
 
