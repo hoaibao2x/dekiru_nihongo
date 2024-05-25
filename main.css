@@ -90,6 +90,10 @@ html body a {
     text-align: center;
 }
 
+.lesson-card {
+    margin: 5%;
+}
+
 /* Responsive */
 
 /* Default */
